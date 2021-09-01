@@ -53,16 +53,15 @@ html {
     }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
-     font-family: 'Roboto', sans-serif;
+     font-family: 'Libre Baskerville', serif
     }
     h5, h6 {
       font-size: 1em;
       font-style: italic;
-     font-family: 'Libre Baskerville', serif;
     }
     h6 {
       font-weight: normal;
-     font-family: 'Libre Baskerville', serif;
+   
     }
     ol, ul {
       padding-left: 1.7em;
