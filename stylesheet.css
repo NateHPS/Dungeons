@@ -19,6 +19,9 @@ html {
       text-rendering: optimizeLegibility;
       font-kerning: normal;
     }
+
+.center {text-align: center;}
+
     @media (max-width: 600px) {
       body {
         font-size: 0.9em;
